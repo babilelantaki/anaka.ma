@@ -39,7 +39,7 @@
   ],
   "functions": {
     "server/index.ts": {
-      "runtime": "nodejs18.x"
+      "runtime": "nodejs20.x"
     }
   }
 }
