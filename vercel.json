@@ -38,7 +38,7 @@
     }
   ],
   "functions": {
-    "server/index.ts": {
+    "api/index.ts": {
       "runtime": "nodejs20.x"
     }
   }
